@@ -2,7 +2,7 @@
   import meetups from "./meetups-store.js";
   import { createEventDispatcher } from "svelte";
   import TextInput from "../UI/TextInput.svelte";
-  import Button from "../UI/BUtton.svelte";
+  import Button from "../UI/Button.svelte";
   import Modal from "../UI/Modal.svelte";
   import { isEmpty, isValidEmail } from "../helpers/validation.js";
 

@@ -11,7 +11,7 @@
   export let imageURL;
   export let description;
   export let address;
-  export let email;
+  export let email = "";
   export let isFav;
 
   let isLoading = false;
